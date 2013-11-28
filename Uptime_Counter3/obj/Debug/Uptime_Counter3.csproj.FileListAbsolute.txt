@@ -1,0 +1,10 @@
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\bin\Debug\Uptime_Counter3.exe.config
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\bin\Debug\Uptime_Counter3.exe
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\bin\Debug\Uptime_Counter3.pdb
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\obj\Debug\Uptime_Counter3.csprojResolveAssemblyReference.cache
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\obj\Debug\Uptime_Counter3.Form1.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\obj\Debug\Uptime_Counter3.Form2.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\obj\Debug\Uptime_Counter3.Properties.Resources.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\obj\Debug\Uptime_Counter3.csproj.GenerateResource.Cache
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\obj\Debug\Uptime_Counter3.exe
+C:\Users\alan\Documents\Visual Studio 2012\Projects\Uptime_Counter3\Uptime_Counter3\obj\Debug\Uptime_Counter3.pdb
